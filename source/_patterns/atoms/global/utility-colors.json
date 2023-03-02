@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "name": "$brand-info",
+      "value": "#0084d7",
+      "comment": ""
+    },
+    {
+      "name": "$brand-success",
+      "value": "#74c166",
+      "comment": ""
+    },
+    {
+      "name": "$brand-warning",
+      "value": "#fc9e0e",
+      "comment": ""
+    },
+    {
+      "name": "$brand-danger",
+      "value": "#ef1245",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "The utility color palette defines colors that are used to convey meaning such as success, error, warning, and information to the user. These colors should be used for things like alert messages, form validation, tooltips, and other kinds of messaging."
+  }
+}

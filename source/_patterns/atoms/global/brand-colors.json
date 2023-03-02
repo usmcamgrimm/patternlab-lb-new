@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "name": "$primary",
+      "value": "#ef1245",
+      "comment": ""
+    },
+    {
+      "name": "$blue",
+      "value": "#0084d7",
+      "comment": ""
+    },
+    {
+      "name": "$purple",
+      "value": "#9d3292",
+      "comment": ""
+    },
+    {
+      "name": "$green",
+      "value": "#74c166",
+      "comment": ""
+    },
+    {
+      "name": "$orange",
+      "value": "#f48025",
+      "comment": ""
+    },
+    {
+      "name": "$white",
+      "value": "#ffffff",
+      "comment": ""
+    },
+    {
+      "name": "$gray-300",
+      "value": "#dee2e6f",
+      "comment": ""
+    },
+    {
+      "name": "$off-black",
+      "value": "#464f57",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "This is the color palette for Le Bonheur's brand in the digital space."
+  }
+}

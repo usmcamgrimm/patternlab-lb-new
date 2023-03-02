@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "name": "$gray-100",
+      "value": "#f1f2f4",
+      "comment": ""
+    },
+    {
+      "name": "$gray-200",
+      "value": "#e3e6e8",
+      "comment": ""
+    },
+    {
+      "name": "$gray-300",
+      "value": "#d4d9dd",
+      "comment": ""
+    },
+    {
+      "name": "$gray-400",
+      "value": "#c6ccd2",
+      "comment": ""
+    },
+    {
+      "name": "$gray-500",
+      "value": "#b5bdc4",
+      "comment": ""
+    },
+    {
+      "name": "$gray-600",
+      "value": "#aab3bb",
+      "comment": ""
+    },
+    {
+      "name": "$gray-700",
+      "value": "#9ca6b0",
+      "comment": ""
+    },
+    {
+      "name": "$gray-800",
+      "value": "#8d9aa5",
+      "comment": ""
+    },
+    {
+      "name": "$gray-900",
+      "value": "#7f8d99",
+      "comment": ""
+    },
+    {
+      "name": "$off-black",
+      "value": "#464f57",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "The neutral color palette contains grayscale values that are used throughout the interface."
+  }
+}
